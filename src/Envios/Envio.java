@@ -50,7 +50,7 @@ public class Envio {
         this.numeroEnvio= contador++;
     }
     
-//    public void despachar() {
+//  ?  public void despachar() {
 //        if (estado.equals("El paquete se encuentra en el almacen")) {
 //            estado = "Despachado";
 //        }
